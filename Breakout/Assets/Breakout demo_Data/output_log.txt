@@ -1,0 +1,17 @@
+Initialize engine version: 4.1.2f1 (911c7369eeac)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 23.21.13.8813]
+    Renderer: NVIDIA GeForce GTX 560 Ti
+    Vendor:   NVIDIA
+    VRAM:     1999 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Chris\OneDrive\Documents\Backup Stuff\Internal Hardrive\Unity Projects\Breakout\Assets\Breakout demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Chris\OneDrive\Documents\Backup Stuff\Internal Hardrive\Unity Projects\Breakout\Assets\Breakout demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Chris\OneDrive\Documents\Backup Stuff\Internal Hardrive\Unity Projects\Breakout\Assets\Breakout demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Chris\OneDrive\Documents\Backup Stuff\Internal Hardrive\Unity Projects\Breakout\Assets\Breakout demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.303 seconds
+desktop: 1920x1080 60Hz; virtual: 1280x720 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
