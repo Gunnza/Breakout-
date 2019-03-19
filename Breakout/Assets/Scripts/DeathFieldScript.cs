@@ -3,25 +3,16 @@ using System.Collections;
 
 public class DeathFieldScript : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
-	
+	//If the ball misses the paddle the ball needs to be destroyed
 	void OnTriggerEnter(Collider other) {
 		
+		//Getting the script component from the ball when it collides
 		BallScript ballScript = other.GetComponent <BallScript>();
 		
+		// call the die function
 		if (ballScript) 
 		{
 			ballScript.Die();
-		}
-		
-		
+		}	
 	}
 }
